@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mitra/static/css/main.77d56934.css",
+    "main.js": "/mitra/static/js/main.b35e7985.js",
+    "index.html": "/mitra/index.html",
+    "main.77d56934.css.map": "/mitra/static/css/main.77d56934.css.map",
+    "main.b35e7985.js.map": "/mitra/static/js/main.b35e7985.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77d56934.css",
+    "static/js/main.b35e7985.js"
+  ]
+}
