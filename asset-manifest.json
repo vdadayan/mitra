@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mitra/static/css/main.53449ad7.css",
-    "main.js": "/mitra/static/js/main.fe2bad65.js",
+    "main.js": "/mitra/static/js/main.1d38729a.js",
     "index.html": "/mitra/index.html",
     "main.53449ad7.css.map": "/mitra/static/css/main.53449ad7.css.map",
-    "main.fe2bad65.js.map": "/mitra/static/js/main.fe2bad65.js.map"
+    "main.1d38729a.js.map": "/mitra/static/js/main.1d38729a.js.map"
   },
   "entrypoints": [
     "static/css/main.53449ad7.css",
-    "static/js/main.fe2bad65.js"
+    "static/js/main.1d38729a.js"
   ]
 }
